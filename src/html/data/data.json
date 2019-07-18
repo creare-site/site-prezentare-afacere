@@ -4,16 +4,15 @@
     "phone"          : "0729906579",
 
     "seo" : {
-        "title"      : "Plaja si Terasa - Mamaia Nord | Taboo Beach", 
-        "desc"       : "Plaja destinata tuturor varstelor 👉 sezlong, terasa, mare, soare, mancare, cocktailuri."
+        "title"      : "Creare Site - Afacere | WebsiteMarket ", 
+        "desc"       : "Site simplu de prezentare. Un produs Websitemarket"
     }, 
 
     "links" : {
-        "buy"        : "https://websitemarket.ro?ref=cazare-mamaia", 
-        "blog"       : "https://websitemarket.ro/creare-site/cazare-mamaia-nord",
-        "github"     : "https://github.com/creare-site/cazare-mamaia-nord",
-        "instagram"  : "https://www.instagram.com/ma.rius5735/",
-        "facebook"   : "https://www.facebook.com/Taboo-Beach-537016013340499/"
+        "buy"        : "https://websitemarket.ro?ref=site-prezentare", 
+        "blog"       : "https://blog.websitemarket.ro/",
+        "github"     : "https://github.com/creare-site/site-prezentare-afacere",
+        "facebook"   : "https://www.facebook.com/Websitemarketro/"
     }, 
 
     "LAST_KEY" : "NA"
