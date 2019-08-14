@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![site Prezentare Afacere](https://raw.githubusercontent.com/creare-site/static/master/produse/site-prezentare-afacere.jpg)
+![site Prezentare Afacere](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-afacere-intro.gif)
 
 <br />
 
